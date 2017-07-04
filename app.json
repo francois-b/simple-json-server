@@ -1,0 +1,8 @@
+{
+  "name": "JSON sender",
+  "description": "Super simple barebones minimalistic API that returns a local file",
+  "repository": "",
+  "logo": "",
+  "keywords": ["node", "express", "heroku"],
+  "image": "heroku/nodejs"
+}
