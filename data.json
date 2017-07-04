@@ -1,1 +1,16 @@
-{"foo":"bar"}
+{
+  "campaigns": [
+    {
+      "id": 123,
+      "start_date": "1368303838",
+      "end_date": null,
+      "brand_id": 4155
+    }
+  ],
+  "brands": [
+    {
+      "id": 4155,
+      "name": "Coca-Cola"
+    }
+  ]
+}
