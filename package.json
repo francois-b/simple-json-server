@@ -1,5 +1,5 @@
 {
-  "name": "JSON sender",
+  "name": "ToyAPI",
   "version": "1.0.0",
   "description": "Super simple barebones minimalistic API that returns a local file",
   "engines": {

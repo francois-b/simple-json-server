@@ -1,20 +1,20 @@
 {
-  "campaigns": [
-    {
-      "id": 123,
-      "start_date": "1368303838",
-      "end_date": null,
-      "brand_id": 4155
-    }
-  ],
-  "brands": [
-    {
-      "id": 4155,
-      "name": "Coca-Cola"
-  },
-  {
-      "id": 2334,
-      "name": "Apple"
-  }
-  ]
+    "campaigns": [
+        {
+            "id": 123,
+            "start_date": "1368303838",
+            "end_date": null,
+            "brand_id": 4155
+        }
+    ],
+    "brands": [
+        {
+            "id": 4155,
+            "name": "Coca-Cola"
+        },
+        {
+            "id": 2334,
+            "name": "Apple"
+        }
+    ]
 }
